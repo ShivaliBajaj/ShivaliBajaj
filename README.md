@@ -1,2 +1,8 @@
-# ShivaliBajaj
- Technical Visiting Card and Data Science Portfolio
+# Shivali Bajaj
+
+Medical Data Scientist  
+Technical Portfolio
+
+---
+
+Building intelligent systems at the intersection of medicine and data.
