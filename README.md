@@ -28,9 +28,9 @@ AirAware
 
 Technical Grounding  
 
-Machine Learning  
-Deep Learning  
-Healthcare Data Analysis  
+- Machine Learning  
+- Deep Learning  
+- Healthcare Data Analysis    
 
 ---
 
